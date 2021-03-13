@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on 一河</title>
+    <link>https://yihex.com/categories/life/</link>
+    <description>Recent content in Life on 一河</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 19:15:08 +0800</lastBuildDate><atom:link href="https://yihex.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://yihex.com/post/helloworld/</link>
+      <pubDate>Sat, 13 Mar 2021 19:15:08 +0800</pubDate>
+      
+      <guid>https://yihex.com/post/helloworld/</guid>
+      <description>折腾三天，博客终于建起来了。比我想象中要简单，却问题频出，折腾好主题以后可算清净了。博客好建，但是内容才是核心。主要写写日常生活、技术学习日</description>
+    </item>
+    
+  </channel>
+</rss>

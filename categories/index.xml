@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 一河</title>
+    <link>https://yihex.com/categories/</link>
+    <description>Recent content in Categories on 一河</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 19:15:08 +0800</lastBuildDate><atom:link href="https://yihex.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://yihex.com/categories/life/</link>
+      <pubDate>Sat, 13 Mar 2021 19:15:08 +0800</pubDate>
+      
+      <guid>https://yihex.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
